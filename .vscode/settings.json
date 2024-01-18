@@ -1,0 +1,5 @@
+{
+    "editor.lightbulb.experimental.showAiIcon": "on",
+    "workbench.layoutControl.type": "menu",
+    "npm.enableRunFromFolder": false
+}
